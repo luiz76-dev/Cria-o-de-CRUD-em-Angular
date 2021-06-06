@@ -1,0 +1,12 @@
+.btn {
+    margin: 0 15px;
+}
+.btn1 {
+    background-color: rgb(240, 69, 69);
+    color: #fff;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}

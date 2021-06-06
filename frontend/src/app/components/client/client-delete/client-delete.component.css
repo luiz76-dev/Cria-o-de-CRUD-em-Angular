@@ -1,0 +1,8 @@
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn {
+    margin: 15px 0px 0px 20px;
+}

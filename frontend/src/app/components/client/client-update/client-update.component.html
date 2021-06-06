@@ -1,0 +1,23 @@
+<mat-card>
+    <mat-card-title>Atualizar Cliente</mat-card-title>
+    <form class="form">
+        <mat-form-field>
+            <input matInput placeholder="Nome"
+                [(ngModel)]="client.name" name="name"> 
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="CPF"
+                [(ngModel)]="client.cpf" name="cpf">
+        </mat-form-field>
+        <mat-form-field>
+            <input matInput placeholder="Telefone"
+                [(ngModel)]="client.phone" name="phone">
+        </mat-form-field>
+    </form>
+    <button class="btn" mat-raised-button (click)="updateClient()" color="primary">
+        Atualizar    
+    </button>
+    <button mat-raised-button (click)="cancel()">
+        Cancelar
+    </button>
+</mat-card>

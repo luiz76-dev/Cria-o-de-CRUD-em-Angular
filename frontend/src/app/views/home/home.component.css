@@ -1,0 +1,16 @@
+.home .title {    
+    font-size: 2rem;
+    color: #333;
+    font-weight: 300;
+    line-height: 2rem;
+}
+
+.home .subtitle {    
+    font-size: 0.8rem;
+}
+
+.lista {
+    font-size: 2rem;
+    line-height: 3rem;
+    color: blue;
+}

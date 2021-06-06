@@ -1,0 +1,34 @@
+{
+  "clients": [
+    {
+      "id": 3,
+      "name": "Joicy Fernanda",
+      "cpf": 41247821510,
+      "telefone": 14250687
+    },
+    {
+      "name": "Luiz Fernando Pereira",
+      "cpf": "162.213.938-09",
+      "phone": "16988409443",
+      "id": 4
+    },
+    {
+      "name": "Alessandra de Oliveira Pereira",
+      "cpf": "247.508.718-85",
+      "phone": "(16)98845-1775",
+      "id": 5
+    },
+    {
+      "name": "Paula Regina Pereira Farah",
+      "cpf": "16221393809",
+      "phone": "(11)98845-1458",
+      "id": 6
+    },
+    {
+      "name": "Jonatan Henrique Pereira",
+      "cpf": "054.784.954-22",
+      "phone": "(19) 98874-5412",
+      "id": 7
+    }
+  ]
+}
